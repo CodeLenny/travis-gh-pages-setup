@@ -17,7 +17,9 @@ Automated Steps (steps can be opted out of):
   - Adds [gh-pages-travis][] to run, setting Git details, the directory to upload, and linking the SSH key
   - Prevents Travis CI from running on the `gh-pages` branch
 
-![configuration dialog](https://cloud.githubusercontent.com/assets/9272847/25643554/769a8484-2f6e-11e7-8a08-cc042af30b13.png)
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/9272847/25643554/769a8484-2f6e-11e7-8a08-cc042af30b13.png" />
+</p>
 
 
 ## Usage
